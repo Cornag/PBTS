@@ -9,7 +9,10 @@ User requirements:
 
 2 Each employee should be able to enter their working-hours spent on specific projects.
 
-3 Each employee should be able to see their total working-hours spent.
+3 Each employee should be able to see their total working-hours spent and the corresponding project.
 
 4 Each supervisor should be able to see the total working-hours spent on the project he/she supervises.
 
+5 Each supervisor should be able to see all employees working on the project he/she supervises.
+
+6 New projects and employees can only be created by administrators.
