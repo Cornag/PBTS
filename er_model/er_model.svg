@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
-<svg width="45cm" height="15cm" viewBox="-206 31 897 293" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="45cm" height="14cm" viewBox="-206 49 897 276" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
   <g>
     <rect style="fill: #ffffff" x="-13" y="201" width="89.6" height="36"/>
     <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-13" y="201" width="89.6" height="36"/>
-    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="31.8" y="223">Employee</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="31.8" y="223">Employee</text>
   </g>
   <g>
     <ellipse style="fill: #ffffff" cx="-94.5" cy="154" rx="58.5" ry="18"/>
     <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="-94.5" cy="154" rx="58.5" ry="18"/>
-    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="-94.5" y="158">first name</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="-94.5" y="158">first name</text>
   </g>
   <g>
     <ellipse style="fill: #ffffff" cx="-93.45" cy="267" rx="54.65" ry="18"/>
     <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="-93.45" cy="267" rx="54.65" ry="18"/>
-    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="-93.45" y="271">last name</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="-93.45" y="271">last name</text>
   </g>
   <g>
     <ellipse style="fill: #ffffff" cx="-122.6" cy="211" rx="81.6" ry="18"/>
     <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="-122.6" cy="211" rx="81.6" ry="18"/>
-    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="-122.6" y="215">personnel number</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="-122.6" y="215">personnel number</text>
   </g>
   <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="-66.1262" y1="170.363" x2="-13" y2="201"/>
   <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="-56.3479" y1="253.165" x2="-13" y2="237"/>
@@ -27,36 +27,55 @@
   <g>
     <rect style="fill: #ffffff" x="432.9" y="197" width="81.9" height="36"/>
     <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="432.9" y="197" width="81.9" height="36"/>
-    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="473.85" y="219">Project</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="473.85" y="219">Project</text>
   </g>
   <g>
     <ellipse style="fill: #ffffff" cx="624.1" cy="216" rx="66.2" ry="18"/>
     <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="624.1" cy="216" rx="66.2" ry="18"/>
-    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="624.1" y="220">project name</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="624.1" y="220">project name</text>
   </g>
   <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="556.926" y1="215.553" x2="515.668" y2="215.278"/>
   <g>
     <polygon style="fill: #ffffff" points="218,144.48 268.8,114 319.6,144.48 268.8,174.96 "/>
     <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="218,144.48 268.8,114 319.6,144.48 268.8,174.96 "/>
-    <text font-size="12.7998" style="fill: #000000;text-anchor:end;font-family:monospace;font-style:normal;font-weight:normal" x="212" y="138.48"></text>
-    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="325.6" y="138.48"></text>
-    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="268.8" y="148.48">works on</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:end;font-family:monospace;font-style:normal;font-weight:normal" x="212" y="138.48"></text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="325.6" y="138.48"></text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="268.8" y="148.48">works on</text>
   </g>
   <g>
     <polygon style="fill: #ffffff" points="211.9,288.1 270.4,253 328.9,288.1 270.4,323.2 "/>
     <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="211.9,288.1 270.4,253 328.9,288.1 270.4,323.2 "/>
-    <text font-size="12.7998" style="fill: #000000;text-anchor:end;font-family:monospace;font-style:normal;font-weight:normal" x="205.9" y="282.1"></text>
-    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="334.9" y="282.1"></text>
-    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="270.4" y="292.1">supervises</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:end;font-family:monospace;font-style:normal;font-weight:normal" x="205.9" y="282.1"></text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="334.9" y="282.1"></text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="270.4" y="292.1">supervises</text>
   </g>
   <g>
-    <ellipse style="fill: #ffffff" cx="270.95" cy="51" rx="70.05" ry="18"/>
-    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="270.95" cy="51" rx="70.05" ry="18"/>
-    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="270.95" y="55">working hours</text>
+    <ellipse style="fill: #ffffff" cx="359.95" cy="70" rx="70.05" ry="18"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="359.95" cy="70" rx="70.05" ry="18"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="359.95" y="74">working hours</text>
   </g>
-  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="270.302" y1="69.98" x2="268.8" y2="114"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="340.013" y1="87.9629" x2="294.2" y2="129.24"/>
   <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="31.8,238.009 31.8,263.055 211.9,263.055 211.9,288.1 "/>
   <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="31.8,199.991 31.8,172.235 218,172.235 218,144.48 "/>
   <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="319.6,144.48 319.6,170.235 473.85,170.235 473.85,195.991 "/>
   <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="473.85,233 473.85,260.55 328.9,260.55 328.9,288.1 "/>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="182" y="156">
+    <tspan x="182" y="156">m</tspan>
+  </text>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="348.9" y="155.9">
+    <tspan x="348.9" y="155.9">n</tspan>
+    <tspan x="348.9" y="171.9"></tspan>
+  </text>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="349.7" y="290.9">
+    <tspan x="349.7" y="290.9">m</tspan>
+  </text>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="183.6" y="289.9">
+    <tspan x="183.6" y="289.9">1</tspan>
+  </text>
+  <g>
+    <ellipse style="fill: #ffffff" cx="205.575" cy="68" rx="35.4" ry="18"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="205.575" cy="68" rx="35.4" ry="18"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="205.575" y="72">date</text>
+  </g>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="216.703" y1="86.0162" x2="243.4" y2="129.24"/>
 </svg>
