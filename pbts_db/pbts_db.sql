@@ -1,13 +1,14 @@
 -- phpMyAdmin SQL Dump
--- version 5.0.2
+-- version 4.9.1
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Sep 16, 2020 at 02:40 PM
--- Server version: 10.4.14-MariaDB
--- PHP Version: 7.4.9
+-- Generation Time: Sep 17, 2020 at 09:52 AM
+-- Server version: 10.4.8-MariaDB
+-- PHP Version: 7.3.11
 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
+SET AUTOCOMMIT = 0;
 START TRANSACTION;
 SET time_zone = "+00:00";
 
@@ -33,6 +34,17 @@ CREATE TABLE `employee` (
   `last_name` varchar(32) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 
+--
+-- Dumping data for table `employee`
+--
+
+INSERT INTO `employee` (`id`, `first_name`, `last_name`) VALUES
+(1, 'Matthias', 'Hartmann'),
+(2, 'Paul', 'Schröder'),
+(3, 'Mohammad', 'Al-Abbadi'),
+(4, 'Horst', 'Heinrich'),
+(5, 'Hans', 'Hansen');
+
 -- --------------------------------------------------------
 
 --
@@ -47,6 +59,14 @@ CREATE TABLE `employee_project` (
   `id` int(11) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 
+--
+-- Dumping data for table `employee_project`
+--
+
+INSERT INTO `employee_project` (`employee_id`, `project_id`, `date`, `working_hours`, `id`) VALUES
+(5, 1, '2020-09-17', '06:00:00', 1),
+(4, 1, '2020-09-09', '02:00:00', 2);
+
 -- --------------------------------------------------------
 
 --
@@ -55,9 +75,16 @@ CREATE TABLE `employee_project` (
 
 CREATE TABLE `project` (
   `id` smallint(6) NOT NULL,
-  `project_name` int(11) NOT NULL,
+  `project_name` text NOT NULL,
   `supervisor` smallint(6) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
+
+--
+-- Dumping data for table `project`
+--
+
+INSERT INTO `project` (`id`, `project_name`, `supervisor`) VALUES
+(1, 'Create an SQL database', 3);
 
 --
 -- Indexes for dumped tables
@@ -83,6 +110,16 @@ ALTER TABLE `employee_project`
 ALTER TABLE `project`
   ADD PRIMARY KEY (`id`),
   ADD KEY `project_supervisor_fkey` (`supervisor`);
+
+--
+-- AUTO_INCREMENT for dumped tables
+--
+
+--
+-- AUTO_INCREMENT for table `employee_project`
+--
+ALTER TABLE `employee_project`
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=3;
 
 --
 -- Constraints for dumped tables
