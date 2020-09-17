@@ -31,10 +31,10 @@ if ($myResult)
 {
    	echo('Resultat erhalten'." <br />\n");
 	echo('Tabelle "Employee"'."<br />\n");
-	foreach($myOutput as $zeile) 
+	foreach($myOutput as $row) 
 	{
 		echo '<br>';
-		echo '<br>' . $zeile['first_name'].' '. $zeile['last_name'];
+		echo '<br>' . $row['first_name'].' '. $row['last_name'];
 	}
 	
 } 
